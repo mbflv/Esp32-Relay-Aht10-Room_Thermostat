@@ -37,7 +37,7 @@ Or you can use other IDE (Arduino IDE, etc..) and use the code to upload it.
 It is nice because all code is formed in one file, and it is easy for everyone to flash it.
 
 #
-You cand find in this place the *.3mf project for the case to print it for both: pcb+relay & pcb+aht10 sensor.
+You can find in this place the *.3mf project for the case to print it for both: pcb+relay & pcb+aht10 sensor.
 
 Material:Pla
 Can be print with infill 20%
