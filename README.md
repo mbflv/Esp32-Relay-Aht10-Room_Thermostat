@@ -48,6 +48,8 @@ TO DO:
 manual increase/decrease sensor polling time;
 OTA firmare update.
 
-Goodluck
+I do not take responsibility for any malfunction, you do it on your own. Pay attention to the process of connecting to your heater because this relay only has an ON/OFF function. Do not connect voltage to the relay.
 
-If this is usefull
+Goodluck!
+
+If this project is usefull, i like to drink a coffe together: ( paypal: flav.op.nick@gmail.com )
