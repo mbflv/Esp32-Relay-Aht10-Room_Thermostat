@@ -49,3 +49,5 @@ manual increase/decrease sensor polling time;
 OTA firmare update.
 
 Goodluck
+
+If this is usefull
