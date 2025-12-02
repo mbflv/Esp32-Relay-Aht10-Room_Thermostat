@@ -1,3 +1,6 @@
+#Esp32-Relay-Aht10-Room_Thermostat
+
+#
 This is a room thermostat from at least 2 esp32 pcb.Big advantage of this system is that it use wifi local connection and AP to setup it using WEB UI.
 It have many options to calibrate temperature and humidity, set up four schedule program and a graph history.
 Another advantage of it is that it can support maximum 8 sensor from local Wifi.In Web UI you'll find that option to add/remove a new sensor and the check box that can make which sensor can be the main sensor who will be in control of the relay.
@@ -38,8 +41,8 @@ Can be print with infill 20%
 any printer any speed
 recomanded bottom part to be inclined at 60degrees using manual supports and activate autobrim!
 
-TO DO:
-manual increase/decrease sensor polling time
-OTA firmare update
+##TO DO:
+#manual increase/decrease sensor polling time
+#OTA firmare update
 
 Goodluck
