@@ -11,6 +11,7 @@ Debounce is 60 seconds by default, and it can be modify.
 You can install a button to factory reset using Pin 5, or you can find Factory reset button on web UI.
 Another thing is about you can set offset to make correction directly on esp32+aht1 sensor UI or on relay board UI via wifi.
 
+#
 1st: esp32+relay which command your heater
   Pin connection from relay to esp board :
  IN -> pin 25
@@ -24,16 +25,19 @@ GND -> GND
 SCL -> G22
 SDA -> G21
 
+#
 Easy method to flash esp32(Flash download Tool):
 load xxxx.bootloader.bin Address: 0x1000
 load xxxx.partition.bin  Address: 0x8000
 load xxxx.ino.bin        Address: 0x10000
-
+#
 After flashing need to reset the board!!! after that AP will appear and you can change connection to your local wifi network!
 
 Or you can use other IDE (Arduino IDE, etc..) and use the code to upload it.
 It is nice because all code is formed in one file, and it is easy for everyone to flash it.
 
+#
+#
 You cand find in this place the *.3mf project for the case to print it for both: pcb+relay & pcb+aht10 sensor.
 
 Material:Pla
