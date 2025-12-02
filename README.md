@@ -37,7 +37,6 @@ Or you can use other IDE (Arduino IDE, etc..) and use the code to upload it.
 It is nice because all code is formed in one file, and it is easy for everyone to flash it.
 
 #
-#
 You cand find in this place the *.3mf project for the case to print it for both: pcb+relay & pcb+aht10 sensor.
 
 Material:Pla
@@ -46,7 +45,7 @@ any printer any speed
 recomanded bottom part to be inclined at 60degrees using manual supports and activate autobrim!
 
 TO DO:
-manual increase/decrease sensor polling time;
+manual increase/decrease sensor polling time;##
 OTA firmare update.
 
 Goodluck
