@@ -41,8 +41,8 @@ Can be print with infill 20%
 any printer any speed
 recomanded bottom part to be inclined at 60degrees using manual supports and activate autobrim!
 
-##TO DO:
-#manual increase/decrease sensor polling time
-#OTA firmare update
+TO DO:
+manual increase/decrease sensor polling time
+OTA firmare update
 
 Goodluck
