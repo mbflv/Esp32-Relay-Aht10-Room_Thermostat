@@ -52,4 +52,4 @@ I do not take responsibility for any malfunction, you do it on your own. Pay att
 
 Goodluck!
 
-If this project is usefull, i like to drink a coffe together: ( paypal: flav.op.nick@gmail.com )
+If this project is usefull, i'd like to drink a coffe together: ( paypal: flav.op.nick@gmail.com )
